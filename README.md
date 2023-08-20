@@ -2,7 +2,7 @@
 
 Hello, thanks for visiting my profile.  
 🔭 I am a software developer specializing in web applications.  
-🌱 I have about 1 year and a half studying the most used technologies in the frontend such as Html, Css and JavaScript.  
+🌱 I have about 3 year studying the most used technologies in the frontend such as Html, Css and JavaScript.  
 🌱 I have knowledge about relational databases like MySQL and SQL Server.  
 💬 I have knowledge about object-oriented programming and Rest services using Java, C#, Spring framework and ASP.NET.  
 💬 I have knowledge about design patterns and object-oriented software architecture.  
@@ -19,6 +19,7 @@ Hello, thanks for visiting my profile.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="asp.net" width="40" height="40"/> </a>
 
 <h3 align="left">Others</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
