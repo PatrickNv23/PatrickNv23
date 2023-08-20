@@ -4,10 +4,10 @@ Hello, thanks for visiting my profile.
 🔭 I am a software developer specializing in web applications.  
 🌱 I have about 1 year and a half studying the most used technologies in the frontend such as Html, Css and JavaScript.  
 🌱 I have knowledge about relational databases like MySQL and SQL Server.  
-💬 I have knowledge about object-oriented programming and Rest services using the Java language and the Spring framework.  
+💬 I have knowledge about object-oriented programming and Rest services using Java, C#, Spring framework and ASP.NET.  
 💬 I have knowledge about design patterns and object-oriented software architecture.  
 ⚡ I use Git for version control in my applications.  
-🌱 I am currently using React js as the main library for component-based UI development.  
+🌱 I am currently using React js and Angular as my main technologies for component-based UI development.  
 
 <h3 align="left">My Core</h3>
 <p align="left"> 
